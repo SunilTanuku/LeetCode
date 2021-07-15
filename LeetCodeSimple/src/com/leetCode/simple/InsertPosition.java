@@ -1,4 +1,4 @@
-package com.leetCode.simple;
+package  com.leetCode.simple;
 
 public class InsertPosition {
     public int searchInsert(int [] nums, int target){
